@@ -1,0 +1,8 @@
+.background {
+  min-height: 100vh;
+  padding: 24px;
+  background-image: url('.public/imagens/grama.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
